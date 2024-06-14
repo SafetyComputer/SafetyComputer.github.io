@@ -1,6 +1,7 @@
 {
   "name": "hajaha-universe",
   "private": true,
+  "homepage": "https://github.com/SafetyComputer/SafetyComputer.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
